@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Aug 2024 08:59:08 at http://www.itsoluciona.com.br +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr10C2%P%s%u%I0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" http://www.itsoluciona.com.br -O1 "C:\Download\SITE IT SOLUCIONA\IT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:59:10	Warning: 	Moved Permanently for www.itsoluciona.com.br/robots.txt
+08:59:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.itsoluciona.com.br/robots.txt and itsoluciona.com.br/robots.txt
+08:59:10	Warning: 	Warning moved treated for www.itsoluciona.com.br/robots.txt (real one is itsoluciona.com.br/robots.txt)
+08:59:10	Warning: 	Moved Permanently for www.itsoluciona.com.br/
+08:59:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.itsoluciona.com.br/ and https://itsoluciona.com.br/
+08:59:10	Warning: 	File has moved from www.itsoluciona.com.br/ to https://itsoluciona.com.br/
+08:59:10	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

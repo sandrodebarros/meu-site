@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.itsoluciona.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	a59154f506cea7f07b704cdb3d002007
+
